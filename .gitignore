@@ -1,0 +1,12 @@
+/logs
+/checkpoints
+/outputs
+/savedmodel
+.ipynb_checkpoints/
+*.pyc
+*.mp4
+*.avi
+*.swp
+*.onnx
+*.trt
+
